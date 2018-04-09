@@ -689,6 +689,7 @@
 {
 	z-index: 79;
 	height: 1337px;
+	width: 100%;
 	border-style: none;
 	border-color: transparent;
 	background: transparent url("../images/backofme.jpg") repeat-y right center;
